@@ -19,7 +19,6 @@ This repository is designed for **educational purposes only** to demonstrate how
 | Tool | Description |
 |------|------------|
 | [GoPhish](https://getgophish.com/) | Open-source phishing simulation tool |
-| SMTP Server | Required for sending spoofed emails |
 | Email Header Analysis | Used to detect spoofed emails |
 | SPF/DKIM/DMARC | Security protocols to prevent spoofing |
 
@@ -40,6 +39,7 @@ cd gophish
 ```
 
 🔹 Access GoPhish dashboard at `https://localhost:3333`
+
 🔹 Default credentials: `admin` / `gophish`
 
 ---
