@@ -44,23 +44,6 @@ cd gophish
 
 ---
 
-## 🎭 Creating a Phishing Campaign
-### 1️⃣ Configure SMTP Server
-- Set up an **SMTP relay** (e.g., SendGrid, Mailgun, Postfix).
-- Use a **custom sender email** to simulate spoofing.
-
-### 2️⃣ Create a Phishing Email Template
-- Go to **Email Templates** in GoPhish.
-- Design a fake email (e.g., Password Reset, Security Alert).
-- Insert **tracking links** to monitor user clicks.
-
-### 3️⃣ Launch the Phishing Campaign
-- Select your **email template** and **target list**.
-- Send test emails to analyze delivery.
-- Check GoPhish dashboard for **opened emails & clicked links**.
-
----
-
 ## 🛡 How to Prevent Email Spoofing & Phishing
 ### ✅ Use SPF, DKIM, and DMARC
 - SPF (Sender Policy Framework) ✅
@@ -86,5 +69,5 @@ This project is created **to educate users on email security and phishing awaren
 ---
 
 ### 📧 Contact & Support
-For any issues or questions, feel free to open an **issue** in the repo or contact me at [your email].
+For any issues or questions, feel free to open an **issue** in the repo
 
